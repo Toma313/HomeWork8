@@ -13,7 +13,7 @@ public class ThisMethod {
     public static void myMethod(String str) {
         String[] massive = str.split(", .");
         Arrays newArray = Arrays.stream(massive).toArray();
-        ArrayList<Integer> integerArrayList = newArray.asList(massive);
+        ArrayList<Integer> integerArrayList = newArray.asList(massive); // вот тут не понятно как сделать уникальными значения??
         for (String s : massive) {
             System.out.println(s.substring(0,1).toUpperCase()+s.substring(1));
 
