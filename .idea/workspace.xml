@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3da133-5f98-4cb3-bd80-c835eff1d87d" name="Changes" comment="newHome work 8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="bd3da133-5f98-4cb3-bd80-c835eff1d87d" name="Changes" comment="newHome work 8. now version">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ThisMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ThisMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670972167983</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="newHome work 8. now version">
+      <created>1671021878866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671021878866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="newHome work 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="newHome work 8" />
+    <MESSAGE value="newHome work 8. now version" />
+    <option name="LAST_COMMIT_MESSAGE" value="newHome work 8. now version" />
   </component>
 </project>

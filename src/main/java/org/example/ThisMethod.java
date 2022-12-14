@@ -1,16 +1,12 @@
 package org.example;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class ThisMethod {
     private static String str;
 
     public static void myMethod(String str) {
-        String[] massive = str.split(" .");
-        ArrayList<String> worlds = new ArrayList<>(List.of(str.replace(" .","").split(",")));
+        ArrayList<String> worlds = new ArrayList<>(List.of(str.replace(".","").replaceAll(" ","").split(",")));
 
         Set<String> set = new HashSet<>(worlds);
         System.out.println(set);
